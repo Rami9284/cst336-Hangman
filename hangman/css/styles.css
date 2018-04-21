@@ -1,0 +1,40 @@
+#won,#lost{
+    display: none;
+}
+
+#word, #letters{
+    padding: 20px 0px;
+}
+
+#man{
+    margin: 20px auto;
+    width: 600px;
+    height: 600px;
+    border: solid;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+#word{
+    font-size: 1.8em;
+}
+
+.hint{
+    font-size:0.6em !important;
+    display: none;
+}
+
+.btn{
+    padding: 7px 7px !important;
+    margin: 0px 2px;
+   
+}
+
+.letter,.hintBtn{
+    border: 2px;
+    border-radius: 5px;
+   background-color: #4CAF50;
+    margin:0px 2px;
+    padding: 7px 7px !important
+    
+}
